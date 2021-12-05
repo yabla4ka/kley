@@ -1,0 +1,24 @@
+   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300&display=swap');
+
+   p {
+       font-family: "Bebas Neue";
+       font-weight: 300;
+       font-size: 36px ;
+       color: chocolate;
+   }
+
+   .test1 {
+       color:  chocolate;
+   }
+
+   .test2 {
+    color: rgb(43, 148, 209);
+}
+
+.test3 {
+    color: lightgreen;
+}
+
+.test4 {
+    color: darkcyan;
+}
